@@ -1,0 +1,35 @@
+*{
+    background-color: antiquewhite;
+    font-style: helvetica;
+    
+}
+.container-fluid{
+    padding:1em;
+    margin:0em;
+    background-color: lightcoral;
+}
+.col{
+
+    background-color:lightcoral;
+}
+a{
+    margin-left: 7em;
+    background-color: lightcoral;
+}
+article .container-fluid {
+    display:inline-block;
+    padding: 1em;
+    border: 0.1px solid lightslategray;
+    border-radius: 50px;
+    background-color: lightcoral;
+    margin: 5em;
+}
+.titulos{
+    font-size: 2em;
+    background-color: lightcoral;
+
+}
+.definiciones{
+ font-size:1em;
+ background-color: lightcoral;
+}
